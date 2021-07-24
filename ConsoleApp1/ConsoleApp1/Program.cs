@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("HEii");
             Console.WriteLine("facem sa fie bine111");
+            Console.WriteLine("fasdasdasdasd");
         }
     }
 }
