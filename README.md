@@ -1,2 +1,0 @@
-# Gitintro
-da eu sunt
