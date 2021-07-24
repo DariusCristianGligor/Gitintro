@@ -12,10 +12,10 @@ namespace ConsoleApp1
         {
             Console.WriteLine("HEii");
 <<<<<<< HEAD
-            Console.WriteLine("HEii2222222222");
+            Console.WriteLine("facem sa fie bine");
 =======
-            Console.WriteLine("facem sa fie bine111");
->>>>>>> aab91102dfddafa5502770084c3070add9541d49
+            Console.WriteLine("HEii");
+>>>>>>> fae071290a84c6863832fa4f3e910acfc64d0b61
         }
     }
 }
