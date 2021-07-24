@@ -11,8 +11,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("HEii");
-            Console.WriteLine("facem sa fie bine111");
-            Console.WriteLine("fasdasdasdasd");
+            Console.WriteLine("asdasd");
+            Console.WriteLine("HEii2222222222");
         }
     }
 }
