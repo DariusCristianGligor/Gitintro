@@ -12,7 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("HEii");
             Console.WriteLine("asdasd");
-            Console.WriteLine("asdasd");
+            Console.WriteLine("asda22222sd");
         }
     }
 }
